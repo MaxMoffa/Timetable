@@ -1,0 +1,17 @@
+{
+    "dir" : "ltr",
+    "lang" : "Italian",
+    "name" : "Timetable",
+    "scope" : "/",
+    "display" : "standalone",
+    "start_url" : "/",
+    "short_name" : "Timetable",
+    "theme_color" : "rgb(251, 140, 0)",
+    "description" : "",
+    "orientation" : "portrait",
+    "background_color" : "#ffffff",
+    "prefer_related_applications" : false,
+    "icons": [
+
+    ]
+}
